@@ -1,7 +1,7 @@
-url: https://iguhrzdoneqcbkviqqwf.supabase.co/rest/v1/
-status: up
+url: https://iguhrzdoneqcbkviqqwf.supabase.co/rest/v1/?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlndWhyemRvbmVxY2JrdmlxcXdmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1NzIyMDUsImV4cCI6MjA5MTE0ODIwNX0.QKlBH9c3mFLHrUFMZfEWVQEsWnq9pQdRUOf14ZIvcko
+status: down
 code: 401
-responseTime: 228
-lastUpdated: 2026-04-16T01:34:53.682Z
+responseTime: 209
+lastUpdated: 2026-04-16T01:39:06.787Z
 startTime: 2026-04-16T01:23:07.014Z
 generator: Upptime <https://github.com/upptime/upptime>
