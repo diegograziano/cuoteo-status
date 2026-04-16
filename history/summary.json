@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://iguhrzdoneqcbkviqqwf.supabase.co",
     "icon": "https://icons.duckduckgo.com/ip3/iguhrzdoneqcbkviqqwf.supabase.co.ico",
     "slug": "cuoteo-api-supabase",
-    "status": "down",
-    "uptime": "83.76%",
-    "uptimeDay": "83.76%",
-    "uptimeWeek": "83.76%",
-    "uptimeMonth": "83.76%",
-    "uptimeYear": "83.76%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "76.16%",
+    "uptimeDay": "76.16%",
+    "uptimeWeek": "76.16%",
+    "uptimeMonth": "76.16%",
+    "uptimeYear": "76.16%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2026-04-16": 3
+      "2026-04-16": 5
     }
   }
 ]
