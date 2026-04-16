@@ -4,9 +4,7 @@ sites:
   - name: Cuoteo App
     url: https://cuoteo.app
   - name: Cuoteo API (Supabase)
-    url: https://iguhrzdoneqcbkviqqwf.supabase.co/rest/v1/
-    expectedStatusCodes:
-      - 401
+    url: https://iguhrzdoneqcbkviqqwf.supabase.co/rest/v1/?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlndWhyemRvbmVxY2JrdmlxcXdmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1NzIyMDUsImV4cCI6MjA5MTE0ODIwNX0.QKlBH9c3mFLHrUFMZfEWVQEsWnq9pQdRUOf14ZIvcko
 status-website:
   baseUrl: /cuoteo-status
   name: Cuoteo Status
