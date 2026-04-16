@@ -8,6 +8,6 @@ sites:
     expectedStatusCodes:
       - 404
 status-website:
-  baseUrl: /cuoteo-status
+  baseUrl: /
   name: Cuoteo Status
   logoUrl: https://cuoteo.app/logo.png
