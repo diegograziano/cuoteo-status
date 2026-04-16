@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iguhrzdoneqcbkviqqwf.supabase.co.ico",
     "slug": "cuoteo-api-supabase",
     "status": "up",
-    "uptime": "76.16%",
-    "uptimeDay": "76.16%",
-    "uptimeWeek": "76.16%",
-    "uptimeMonth": "76.16%",
-    "uptimeYear": "76.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2026-04-16": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
