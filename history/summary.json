@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
     "name": "Cuoteo API (Supabase)",
-    "url": "https://iguhrzdoneqcbkviqqwf.supabase.co/rest/v1/?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlndWhyemRvbmVxY2JrdmlxcXdmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU1NzIyMDUsImV4cCI6MjA5MTE0ODIwNX0.QKlBH9c3mFLHrUFMZfEWVQEsWnq9pQdRUOf14ZIvcko",
+    "url": "https://iguhrzdoneqcbkviqqwf.supabase.co",
     "icon": "https://icons.duckduckgo.com/ip3/iguhrzdoneqcbkviqqwf.supabase.co.ico",
     "slug": "cuoteo-api-supabase",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "uptime": "83.76%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "83.76%",
+    "uptimeYear": "83.76%",
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2026-04-16": 0
+      "2026-04-16": 3
     }
   }
 ]
