@@ -5,6 +5,8 @@ sites:
     url: https://cuoteo.app
   - name: Cuoteo API (Supabase)
     url: https://iguhrzdoneqcbkviqqwf.supabase.co
+    expectedStatusCodes:
+      - 404
 status-website:
   baseUrl: /cuoteo-status
   name: Cuoteo Status
