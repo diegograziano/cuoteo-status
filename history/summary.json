@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuoteo.app.ico",
     "slug": "cuoteo-app",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
-    "time": 147,
-    "timeDay": 264,
-    "timeWeek": 178,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 149,
+    "timeDay": 176,
+    "timeWeek": 184,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2026-04-22": 75
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 112,
-    "timeWeek": 70,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "time": 98,
+    "timeDay": 71,
+    "timeWeek": 72,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   }
 ]
